@@ -4,10 +4,6 @@ import pandas as pd
 import pickle
 import streamlit as st
 import zipfile
-from keras.callbacks import ModelCheckpoint
-from keras.layers import Dense
-from keras.layers import LSTM
-from keras.models import Sequential
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import MinMaxScaler
 
