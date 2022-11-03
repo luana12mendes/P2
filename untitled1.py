@@ -4,8 +4,6 @@ import pandas as pd
 import pickle
 import streamlit as st
 import zipfile
-from sklearn.preprocessing import LabelEncoder
-from sklearn.preprocessing import MinMaxScaler
 
 ZIP_PATH = '/eleicao.zip'
 CSV_FILE1 = '/Luana Mendes Alves - consulta_cand_2020_RJ.csv'
