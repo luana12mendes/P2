@@ -2,7 +2,6 @@ import os
 import numpy as np
 import pandas as pd
 import pickle
-import sklearn.metrics as metrics
 import streamlit as st
 import tensorflow as tf
 import zipfile
